@@ -1,0 +1,30 @@
+
+.input{
+    width: 20%;
+    height: 30px;
+    font-size: 1rem;
+}
+
+.searchBtn{
+    height: 30px;
+    padding: 0 10px;
+}
+
+  .suggestion{
+    width: 20.5%;
+    border: 1px solid black;
+    margin-left: 37.5%;
+    position: absolute;
+  }
+  
+  /* style={{ margin: "0", padding: "0", cursor: "pointer" }} */
+
+  .list{
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+
+  .list:nth-child(odd){
+    background-color: rgb(189, 182, 182);
+  }
