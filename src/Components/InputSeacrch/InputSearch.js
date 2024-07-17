@@ -239,6 +239,7 @@ const InputSearch = () => {
             </p>
           ))}
       </div>
+      {filteredData.length === 0 && <h1 style={{marginTop: '250px'}}>Search for the Article Up Here!!!!</h1>}
         <DisplayCards data={filteredData}/>
     </div>
     
