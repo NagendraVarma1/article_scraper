@@ -7,7 +7,7 @@ const InputSearch = () => {
     {
       title:
         "Two Israeli firms used ForcedEntry exploit to spy on iPhone users: What it is, how to safeguard yourself",
-      link: "https://www.bgr.in/news/two-israeli-firms-used-forcedentry-exploit-to-spy-on-iphone-users-what-it-is-how-to-safeguard-yourself-1042020/",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: ["News", "Apple", "NSO Group", "Pegasus spyware"],
       creator: "Shweta Ganjoo",
       video_url: null,
@@ -26,7 +26,7 @@ const InputSearch = () => {
     },
     {
       title: "India taking up issues of pending salaries in Gulf countries",
-      link: "https://www.sentinelassam.com/national-news/india-taking-up-issues-of-pending-salaries-in-gulf-countries-576449",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: ["National News,More"],
       creator: "Sentinel Digital Desk",
       video_url: null,
@@ -46,7 +46,7 @@ const InputSearch = () => {
     },
     {
       title: "Pegasus issue: What is authorised interception and monitoring ?",
-      link: "https://www.thehindu.com/news/national/pegasus-issue-what-is-authorised-interception-and-monitoring/article38375553.ece",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: null,
       creator: "Devesh K. Pandey",
       video_url: null,
@@ -63,7 +63,7 @@ const InputSearch = () => {
     },
     {
       title: "Pegasus row | No unauthorised snooping was done, insists Centre",
-      link: "https://www.thehindu.com/news/national/pegasus-row-no-unauthorised-snooping-was-done-insists-centre/article38375546.ece",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: null,
       creator: "Yuthika Bhargava",
       video_url: null,
@@ -81,7 +81,7 @@ const InputSearch = () => {
     {
       title:
         "iPhone flaw exploited by second Israeli spy firm: Sources - The Straits Times",
-      link: "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LnN0cmFpdHN0aW1lcy5jb20vd29ybGQvbWlkZGxlLWVhc3QvaXBob25lLWZsYXctZXhwbG9pdGVkLWJ5LXNlY29uZC1pc3JhZWxpLXNweS1maXJtLXNvdXJjZXPSAQA?oc=5",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: null,
       creator: 'Prakasam',
       video_url: null,
@@ -98,7 +98,7 @@ const InputSearch = () => {
     {
       title:
         "Another Secretive Spyware Firm Has Been Helping Hack iPhones - Gizmodo Australia",
-      link: "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3Lmdpem1vZG8uY29tLmF1LzIwMjIvMDIvYW5vdGhlci1zZWNyZXRpdmUtc3B5d2FyZS1maXJtLWhhcy1iZWVuLWhlbHBpbmctaGFjay1pcGhvbmVzL9IBAA?oc=5",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: null,
       creator: 'News Today',
       video_url: null,
@@ -115,7 +115,7 @@ const InputSearch = () => {
     {
       title:
         "Another Secretive Spyware Firm Has Been Helping Hack iPhones - Gizmodo",
-      link: "https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vZ2l6bW9kby5jb20vYW5vdGhlci1zZWNyZXRpdmUtc3B5d2FyZS1maXJtLWhhcy1iZWVuLWhhY2tpbmctaXBob25lcy0xODQ4NDc3NDc00gEA?oc=5",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: null,
       creator: 'India Today',
       video_url: null,
@@ -131,7 +131,7 @@ const InputSearch = () => {
     },
     {
       title: "Pegasus: Naidu says examining motion against IT Minister",
-      link: "https://www.tribuneindia.com/news/nation/pegasus-naidu-says-examining-motion-against-it-minister-366800",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: null,
       creator: 'John Doe',
       video_url: null,
@@ -151,7 +151,7 @@ const InputSearch = () => {
     {
       title:
         "FBI says it tested infamous Pegasus spyware that can silently infect iPhones and spy through your camera",
-      link: "https://www.thesun.co.uk/tech/17539636/fbi-pegasus-spyware/",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: ["Tech", "Android", "Cyber Crime and hacking"],
       creator: "Jona Jaupi",
       video_url: null,
@@ -170,7 +170,7 @@ const InputSearch = () => {
     },
     {
       title: "Pegasus, jobs come up in Lok Sabha debate",
-      link: "https://www.thehindu.com/news/national/pegasus-jobs-come-up-in-lok-sabha-debate/article38372803.ece",
+      link: "http://localhost:3000/ArticleDetails",
       keywords: null,
       creator: "The Hindu Bureau",
       video_url: null,
